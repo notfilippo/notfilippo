@@ -19,4 +19,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ```
 
 ------------
-<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: 2020-07-21T08:49:17Z</p>
+<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 8:51:15 am</b></p>
