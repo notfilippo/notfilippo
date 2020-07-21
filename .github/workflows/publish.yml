@@ -1,0 +1,30 @@
+name: CI publish
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Generate README.md
+      uses: actions-js/profile-readme@dev
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        username: qu4k
+        template: "TEMPLATE.md"
+
+      
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
