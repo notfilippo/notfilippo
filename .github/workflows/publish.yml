@@ -2,9 +2,10 @@ name: CI publish
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches:
+      - master
+  schedule:
+    - cron: '0 */3 * * *'
 
 jobs:
   publish:
