@@ -14,7 +14,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 ```
 📦 webview/webview_deno: ⭐️ 439
-📦 denosaurs/denon: ⭐️ 415
+📦 denosaurs/denon: ⭐️ 416
 📦 nestdotland/eggs: ⭐️ 8
 📦 nestdotland/hatcher: ⭐️ 2
 ```
@@ -30,4 +30,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 12:10:31 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 12:34:15 pm UTC</b></p>
