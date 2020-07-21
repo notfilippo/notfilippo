@@ -1,11 +1,11 @@
 name: CI publish
 
 on:
+  schedule:
+    - cron: '*/30 * * * *'
   push:
     branches:
       - master
-  schedule:
-    - cron: '0 */1 * * *'
 
 jobs:
   publish:
