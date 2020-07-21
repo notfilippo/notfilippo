@@ -29,6 +29,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #44 in webview/webview_deno
 💪 Opened PR #44 in webview/webview_deno
 📦 Released "v0.0.3 - Minor debug fixes" in denosaurs/plug
 📦 Released "v0.0.2 - URL magic" in denosaurs/plug
@@ -38,8 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 📦 Released "v0.0.2 - Remove `--allow-env` permission need" in denosaurs/cache
 📦 Released "v0.0.1 - Basic Cache" in denosaurs/cache
 📦 Released "v0.0.1 - Basic Cache" in denosaurs/cache
-📦 Released "v0.0.1 - Basic Cache" in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 10:01:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 11:01:52 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
