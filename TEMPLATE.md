@@ -26,7 +26,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
 ```
 
 ------------
