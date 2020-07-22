@@ -29,6 +29,9 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #138 in abhisheknaiidu/awesome-github-profile-readme
+🗣 Commented on #130 in abhisheknaiidu/awesome-github-profile-readme
+💪 Opened PR #4372 in js-org/js.org
 🎉 Merged PR #1 in whistle-lang/whistle
 💪 Opened PR #1 in whistle-lang/whistle
 🎉 Merged PR #44 in webview/webview_deno
@@ -36,10 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 📦 Released "v0.0.3 - Minor debug fixes" in denosaurs/plug
 📦 Released "v0.0.2 - URL magic" in denosaurs/plug
 📦 Released "v0.0.1 - Plug" in denosaurs/plug
-❌ Closed PR #43 in webview/webview_deno
-🗣 Commented on #43 in webview/webview_deno
-📦 Released "v0.0.2 - Remove `--allow-env` permission need" in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 12:05:28 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 1:02:04 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
