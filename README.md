@@ -29,17 +29,17 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #73 in denosaurs/denon
+🗣 Commented on #73 in denosaurs/denon
+❗️ Closed issue #79 in denosaurs/denon
+🗣 Commented on #79 in denosaurs/denon
 💪 Opened PR #138 in abhisheknaiidu/awesome-github-profile-readme
 🗣 Commented on #130 in abhisheknaiidu/awesome-github-profile-readme
 💪 Opened PR #4372 in js-org/js.org
 🎉 Merged PR #1 in whistle-lang/whistle
 💪 Opened PR #1 in whistle-lang/whistle
 🎉 Merged PR #44 in webview/webview_deno
-💪 Opened PR #44 in webview/webview_deno
-📦 Released "v0.0.3 - Minor debug fixes" in denosaurs/plug
-📦 Released "v0.0.2 - URL magic" in denosaurs/plug
-📦 Released "v0.0.1 - Plug" in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 7:01:59 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 8:02:33 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
