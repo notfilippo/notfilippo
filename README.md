@@ -29,6 +29,9 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.0.5 - abs URLs" in denosaurs/cache
+📦 Released "v0.0.5 - Abs path resolution" in denosaurs/cache
+📦 Released "v0.0.5 - multi-os path resolution" in denosaurs/cache
 📦 Released "v0.0.4 - file:// absolute resolution" in denosaurs/cache
 ❗️ Opened issue #2 in denosaurs/plug
 ❗️ Opened issue #1 in denosaurs/cache
@@ -36,10 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🗣 Commented on #45 in webview/webview_deno
 🗣 Commented on #11 in nestdotland/deno_swc
 ❗️ Closed issue #4 in denosaurs/ddoc
-🗣 Commented on #4 in denosaurs/ddoc
-❗️ Closed issue #1 in denosaurs/ddoc
-📦 Released "v0.0.2 - CLI :tada:" in denosaurs/ddoc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 10:02:13 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 11:02:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
