@@ -29,6 +29,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #2 in denosaurs/plug
 ❗️ Opened issue #1 in denosaurs/cache
 ❗️ Opened issue #1 in denosaurs/plug
 🗣 Commented on #45 in webview/webview_deno
@@ -38,8 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❗️ Closed issue #1 in denosaurs/ddoc
 📦 Released "v0.0.2 - CLI :tada:" in denosaurs/ddoc
 📦 Released "v0.0.4 - Bump cache deps" in denosaurs/plug
-📦 Released "v0.0.3 - Bugfix" in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 7:02:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, July 23rd 2020, 8:02:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
