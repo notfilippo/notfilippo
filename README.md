@@ -22,7 +22,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 443 | [webview/webview_deno](https://github.com/webview/webview_deno) | Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
-| 📦 | 421 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 422 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 11 | [nestdotland/eggs](https://github.com/nestdotland/eggs) | 🥚 nest.land's CLI to upload/update your modules, login to your account and more |
 | 📦 | 2 | [nestdotland/hatcher](https://github.com/nestdotland/hatcher) | 🐣 Internal module to help eggs handle global updates |
 
@@ -42,4 +42,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 24th 2020, 12:09:47 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 24th 2020, 1:02:20 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
