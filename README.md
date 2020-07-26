@@ -29,6 +29,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in denosaurs/cache
 🎉 Merged PR #80 in denosaurs/denon
 ❗️ Opened issue #38 in webview/webview_rust
 💪 Opened PR #80 in denosaurs/denon
@@ -38,8 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 📦 Released "v0.0.6 - Files without protocol" in denosaurs/cache
 📦 Released "v0.0.5 - abs URLs" in denosaurs/cache
 📦 Released "v0.0.5 - Abs path resolution" in denosaurs/cache
-📦 Released "v0.0.5 - multi-os path resolution" in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 26th 2020, 4:02:09 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 26th 2020, 5:02:05 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
