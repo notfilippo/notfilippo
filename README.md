@@ -29,6 +29,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+📦 Released "v2.3.0 - Sequential scripts" in denosaurs/denon
+🎉 Merged PR #81 in denosaurs/denon
 📦 Released "Add message & empty" in actions-js/push
 📦 Released "Add message & empty" in actions-js/push
 📦 Released "Add message & empty" in actions-js/push
@@ -37,9 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❗️ Closed issue #50 in denosaurs/denon
 🗣 Commented on #1 in denosaurs/cache
 🎉 Merged PR #80 in denosaurs/denon
-❗️ Opened issue #38 in webview/webview_rust
-💪 Opened PR #80 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, July 27th 2020, 4:02:09 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, July 27th 2020, 5:01:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
