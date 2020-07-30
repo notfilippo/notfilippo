@@ -29,6 +29,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #48 in denoland/deno_lint
 💪 Opened PR #20 in nestdotland/deno_swc
 🍴 Forked qu4k/deno_swc from nestdotland/deno_swc
 💪 Opened PR #249 in denoland/deno_lint
@@ -38,8 +39,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 💪 Opened PR #1 in denosaurs/sauron
 ❗️ Closed issue #2 in denosaurs/plug
 🗣 Commented on #243 in nestdotland/nest.land
-❗️ Closed issue #1 in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 30th 2020, 10:02:01 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, July 30th 2020, 11:02:02 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
