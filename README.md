@@ -27,6 +27,9 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+📦 Released "Initial Release" in denosaurs/deps
+📦 Released "Initial Release" in denosaurs/status
+📦 Released "Initial Release" in denosaurs/algebra
 ❗️ Opened issue #47 in webview/webview_rust
 🍴 Forked qu4k/denon from denosaurs/denon
 🍴 Forked qu4k/conventional-changelog-config-spec from conventional-changelog/conventional-changelog-config-spec
@@ -34,10 +37,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🗣 Commented on #2 in actions-js/profile-readme
 ❗️ Closed issue #73 in denosaurs/denon
 ❗️ Closed issue #82 in denosaurs/denon
-🎉 Merged PR #83 in denosaurs/denon
-💪 Opened PR #83 in denosaurs/denon
-🗣 Commented on #82 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 3rd 2020, 4:02:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, August 3rd 2020, 5:02:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
