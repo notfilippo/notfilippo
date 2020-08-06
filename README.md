@@ -21,12 +21,14 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 473 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 474 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 458 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #89 in denosaurs/denon
+🗣 Commented on #88 in denosaurs/denon
 🎉 Merged PR #87 in denosaurs/denon
 🗣 Commented on #87 in denosaurs/denon
 ❗️ Closed issue #86 in denosaurs/denon
@@ -35,9 +37,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❗️ Closed issue #84 in denosaurs/denon
 🎉 Merged PR #3 in denosaurs/sauron
 🗣 Commented on #3 in denosaurs/sauron
-💪 Opened PR #85 in denosaurs/denon
-🗣 Commented on #84 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, August 6th 2020, 2:02:54 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, August 6th 2020, 3:02:09 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
