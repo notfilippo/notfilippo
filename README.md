@@ -27,6 +27,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #43 in nestdotland/eggs
 🗣 Commented on #240 in nestdotland/nest.land
 💪 Opened PR #16 in nestdotland/docs
 📦 Released "v2.3.2 - Bug Fixes" in denosaurs/denon
@@ -36,8 +37,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🗣 Commented on #88 in denosaurs/denon
 🎉 Merged PR #87 in denosaurs/denon
 🗣 Commented on #87 in denosaurs/denon
-❗️ Closed issue #86 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, August 13th 2020, 7:02:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, August 13th 2020, 8:02:46 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
