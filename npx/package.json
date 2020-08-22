@@ -10,11 +10,8 @@
   "author": "Filippo Rossi",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.11.4",
-    "@babel/preset-env": "^7.11.0",
-    "@babel/preset-react": "^7.10.4",
-    "@babel/register": "^7.10.5",
     "ascii-faces": "^1.1.0",
+    "import-jsx": "^4.0.0",
     "ink": "^3.0.4",
     "ink-big-text": "^1.2.0",
     "ink-gradient": "^2.0.0",

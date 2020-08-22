@@ -1,8 +1,8 @@
 "use strict";
-import React from "react";
-import { render, useInput, useApp, Box, Text } from "ink";
-import Gradient from "ink-gradient";
-import BigText from "ink-big-text";
+const React = require("react");
+const { render, useInput, useApp, Box, Text } = require("ink");
+const Gradient = require("ink-gradient");
+const BigText = require("ink-big-text");
 
 const Robot = () => {
   const { exit } = useApp();
