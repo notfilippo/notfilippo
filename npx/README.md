@@ -16,17 +16,3 @@
 - Twitter: [@filipporeds](https://keybase.io/filipporeds)
 
 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys.asc)
-
-### 🗄 My projects:
-
-<!--GITHUB_REPOS:{"rows": 2}-->
-
-### 🗣 My activity:
-
-```
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
-```
-
----
-
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>

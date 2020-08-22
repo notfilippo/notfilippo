@@ -2,7 +2,7 @@ name: CI publish
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 */1 * * *"
   push:
     branches:
       - master
@@ -11,23 +11,22 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout sources
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
-        fetch-depth: 0
+      - name: Checkout sources
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
-    - name: Generate README.md
-      uses: actions-js/profile-readme@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        username: qu4k
-        template: "TEMPLATE.md"
+      - name: Generate README.md
+        uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: qu4k
+          template: "TEMPLATE.md"
 
-      
-    - name: Commit & Push changes
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        coauthor_email: qu4k@users.noreply.github.com
-        coauthor_name: qu4k
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          coauthor_email: qu4k@users.noreply.github.com
+          coauthor_name: qu4k
