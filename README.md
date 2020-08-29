@@ -27,17 +27,18 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #64 in nestdotland/eggs
+🗣 Commented on #61 in nestdotland/eggs
+❗️ Closed issue #93 in denosaurs/denon
+🗣 Commented on #93 in denosaurs/denon
 🗣 Commented on #94 in denosaurs/denon
 📦 Released "v2.3.3 - Deno 1.3.0 support 🎉" in denosaurs/denon
 🎉 Merged PR #95 in denosaurs/denon
 ❗️ Closed issue #94 in denosaurs/denon
 💪 Opened PR #95 in denosaurs/denon
 🗣 Commented on #94 in denosaurs/denon
-❗️ Opened issue #291 in denoland/deno_lint
-🗣 Commented on #93 in denosaurs/denon
-🍴 Forked qu4k/deno_starter from justjavac/deno_starter
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, August 29th 2020, 10:01:30 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, August 29th 2020, 11:01:40 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
