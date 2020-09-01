@@ -22,11 +22,14 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 511 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 485 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 486 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #2 in qu4k/testing_deps
+❌ Closed PR #1 in qu4k/testing_deps
+💪 Opened PR #1 in qu4k/testing_deps
 ❌ Closed PR #3 in denosaurs/depbot
 ❌ Closed PR #5 in denosaurs/depbot
 🎉 Merged PR #4 in denosaurs/depbot
@@ -34,11 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❌ Closed PR #2 in denosaurs/depbot
 🎉 Merged PR #97 in denosaurs/denon
 💪 Opened PR #97 in denosaurs/denon
-🍴 Forked qu4k/deno_lint from denoland/deno_lint
-📦 Released "v0.1.2" in denosaurs/release
-📦 Released "v0.1.1" in denosaurs/release
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, September 1st 2020, 8:18:26 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, September 1st 2020, 12:21:03 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
