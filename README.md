@@ -27,6 +27,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #8 in denosaurs/depbot
+🎉 Merged PR #6 in denosaurs/depbot
 📦 Released "v0.1.0" in denosaurs/sodium
 📦 Released "v0.1.1 - 🦄" in denosaurs/emoji
 📦 Released "v0.1.0 - Emojis for everyone 🦄" in denosaurs/emoji
@@ -37,4 +39,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 ---
 
-<p align="center">Last refresh: <b>Friday, September 4th 2020, 4:17:38 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, September 4th 2020, 8:18:43 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
