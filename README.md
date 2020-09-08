@@ -27,6 +27,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.1" in denosaurs/plug
+📦 Released "v0.1.0 - First minor release" in denosaurs/cache
 🎉 Merged PR #6 in denosaurs/denord
 💪 Opened PR #6 in denosaurs/denord
 🎉 Merged PR #10 in denosaurs/depsbot
@@ -35,10 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 💪 Opened PR #2 in qu4k/test
 🎉 Merged PR #1 in qu4k/test
 💪 Opened PR #1 in qu4k/test
-🎉 Merged PR #9 in denosaurs/depbot
-🎉 Merged PR #4 in denosaurs/mod.land
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, September 7th 2020, 8:18:03 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, September 8th 2020, 12:47:07 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
