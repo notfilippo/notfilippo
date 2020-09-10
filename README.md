@@ -27,15 +27,18 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #52 in webview/webview_deno
+🗣 Commented on #52 in webview/webview_deno
+❗️ Closed issue #99 in denosaurs/denon
+🗣 Commented on #99 in denosaurs/denon
 📦 Released "v0.1.0" in denosaurs/gutenberg
 📦 Released "v0.1.1" in denosaurs/gutenberg
 🗣 Commented on #5 in denosaurs/ddoc
 📦 Released "v0.1.1" in denosaurs/plug
 📦 Released "v0.1.0 - First minor release" in denosaurs/cache
 🎉 Merged PR #6 in denosaurs/denord
-💪 Opened PR #6 in denosaurs/denord
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, September 10th 2020, 12:21:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, September 10th 2020, 4:24:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
