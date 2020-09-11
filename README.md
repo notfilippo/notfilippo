@@ -22,11 +22,14 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 525 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 497 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 499 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.0" in denosaurs/branch
+📦 Released "v0.1.0" in denosaurs/event
+🎉 Merged PR #1 in denosaurs/genesis_deno
 ❗️ Closed issue #52 in webview/webview_deno
 🗣 Commented on #52 in webview/webview_deno
 ❗️ Closed issue #99 in denosaurs/denon
@@ -34,11 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 📦 Released "v0.1.0" in denosaurs/gutenberg
 📦 Released "v0.1.1" in denosaurs/gutenberg
 🗣 Commented on #5 in denosaurs/ddoc
-📦 Released "v0.1.1" in denosaurs/plug
-📦 Released "v0.1.0 - First minor release" in denosaurs/cache
-🎉 Merged PR #6 in denosaurs/denord
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, September 11th 2020, 4:18:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, September 11th 2020, 8:18:21 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
