@@ -27,6 +27,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+📦 Released "v2.4.0 - Deno 1.4.0 support 🎉" in denosaurs/denon
 📦 Released "v0.1.1" in denosaurs/branch
 📦 Released "v0.1.3" in denosaurs/gutenberg
 📦 Released "v0.1.2" in denosaurs/gutenberg
@@ -36,9 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 📦 Released "v0.1.1" in denosaurs/debug
 📦 Released "v0.1.0" in denosaurs/debug
 📦 Released "v0.0.1" in denosaurs/debug
-💪 Opened PR #10 in denosaurs/denord
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, September 14th 2020, 8:18:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, September 14th 2020, 12:22:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
