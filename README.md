@@ -27,18 +27,18 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #15 in denosaurs/depsbot
+🎉 Merged PR #13 in denosaurs/depsbot
+🎉 Merged PR #12 in denosaurs/depsbot
+🎉 Merged PR #17 in denosaurs/depsbot
 🗣 Commented on #7481 in denoland/deno
 🗣 Commented on #7481 in denoland/deno
 💪 Opened PR #7481 in denoland/deno
 🍴 Forked qu4k/deno from denoland/deno
 💪 Opened PR #13 in denosaurs/denord
 💪 Opened PR #11 in denosaurs/denord
-📦 Released "v2.4.0 - Deno 1.4.0 support 🎉" in denosaurs/denon
-📦 Released "v0.1.1" in denosaurs/branch
-📦 Released "v0.1.3" in denosaurs/gutenberg
-📦 Released "v0.1.2" in denosaurs/gutenberg
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, September 16th 2020, 4:18:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, September 16th 2020, 8:18:25 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
