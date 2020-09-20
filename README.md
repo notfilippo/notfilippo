@@ -21,12 +21,15 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 531 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 508 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 533 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 509 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #4 in denosaurs/wait
+🗣 Commented on #2 in denosaurs/wait
+🗣 Commented on #3 in denosaurs/wait
 📦 Released "v0.1.3" in denosaurs/release
 🗣 Commented on #7457 in denoland/deno
 🎉 Merged PR #21 in denosaurs/depsbot
@@ -34,11 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🎉 Merged PR #19 in denosaurs/depsbot
 🎉 Merged PR #18 in denosaurs/depsbot
 🎉 Merged PR #22 in denosaurs/depsbot
-🎉 Merged PR #15 in denosaurs/depsbot
-🎉 Merged PR #13 in denosaurs/depsbot
-🎉 Merged PR #12 in denosaurs/depsbot
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, September 19th 2020, 8:17:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, September 20th 2020, 12:50:38 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
