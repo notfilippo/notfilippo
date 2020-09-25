@@ -27,6 +27,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #18 in elsaland/elsa
+❌ Closed PR #13 in denosaurs/denord
 ❌ Closed PR #8 in qu4k/test
 💪 Opened PR #6 in elsaland/elsa
 🍴 Forked qu4k/elsa from elsaland/elsa
@@ -35,10 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❌ Closed PR #7 in qu4k/test
 💪 Opened PR #7 in qu4k/test
 ❌ Closed PR #6 in qu4k/test
-💪 Opened PR #6 in qu4k/test
-❌ Closed PR #5 in qu4k/test
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, September 25th 2020, 4:18:51 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, September 25th 2020, 8:19:25 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
