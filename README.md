@@ -21,12 +21,15 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 546 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 547 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 519 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #1 in elsaland/quickjs
+🍴 Forked qu4k/quickjs from elsaland/quickjs
+💪 Opened PR #27 in elsaland/elsa
 🗣 Commented on #17 in elsaland/elsa
 🎉 Merged PR #23 in elsaland/elsa
 ❗️ Closed issue #22 in elsaland/elsa
@@ -34,11 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 💪 Opened PR #23 in elsaland/elsa
 ❗️ Opened issue #22 in elsaland/elsa
 ❗️ Opened issue #21 in elsaland/elsa
-🗣 Commented on #18 in elsaland/elsa
-❌ Closed PR #13 in denosaurs/denord
-❌ Closed PR #8 in qu4k/test
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, September 25th 2020, 4:18:50 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, September 25th 2020, 8:18:44 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
