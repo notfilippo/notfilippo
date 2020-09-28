@@ -27,6 +27,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #101 in denosaurs/denon
 🎉 Merged PR #4 in actions-js/profile-readme
 💪 Opened PR #1 in elsaland/quickjs
 🍴 Forked qu4k/quickjs from elsaland/quickjs
@@ -36,9 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 ❗️ Closed issue #22 in elsaland/elsa
 ❗️ Opened issue #24 in elsaland/elsa
 💪 Opened PR #23 in elsaland/elsa
-❗️ Opened issue #22 in elsaland/elsa
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, September 28th 2020, 4:19:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, September 28th 2020, 8:18:46 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
