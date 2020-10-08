@@ -21,8 +21,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1563 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go |
-| 📦 | 561 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 1567 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go |
+| 📦 | 563 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
@@ -41,4 +41,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, October 7th 2020, 8:19:58 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, October 8th 2020, 12:45:02 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
