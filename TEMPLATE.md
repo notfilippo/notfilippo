@@ -13,7 +13,7 @@
 
 - Website: [filipporossi.me](https://filipporossi.me/)
 - Keybase: [@filipporossi](https://keybase.io/filipporossi)
-- Twitter: [@filipporeds](https://keybase.io/filipporeds)
+- Twitter: [@filipporeds](https://twitter.com/filipporeds)
 
 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys.asc)
 
