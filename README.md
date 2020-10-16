@@ -13,7 +13,7 @@
 
 - Website: [filipporossi.me](https://filipporossi.me/)
 - Keybase: [@filipporossi](https://keybase.io/filipporossi)
-- Twitter: [@filipporeds](https://keybase.io/filipporeds)
+- Twitter: [@filipporeds](https://twitter.com/filipporeds)
 
 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys.asc)
 
@@ -41,4 +41,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 ---
 
-<p align="center">Last refresh: <b>Friday, October 16th 2020, 12:36:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, October 16th 2020, 3:39:53 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
