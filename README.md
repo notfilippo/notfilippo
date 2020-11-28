@@ -21,12 +21,14 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 2102 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go |
+| 📦 | 2101 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go |
 | 📦 | 600 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #1 in matteotn/disclaimerbot
+🍴 Forked qu4k/disclaimerbot from matteotn/disclaimerbot
 🎉 Merged PR #13 in PlazaCommunity/resources
 🎉 Merged PR #11 in PlazaCommunity/resources
 ❗️ Closed issue #10 in PlazaCommunity/resources
@@ -35,10 +37,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🎉 Merged PR #5 in PlazaCommunity/resources
 🎉 Merged PR #6 in PlazaCommunity/resources
 🗣 Commented on #7481 in denoland/deno
-🎉 Merged PR #3 in PlazaCommunity/resources
-🎉 Merged PR #4 in PlazaCommunity/resources
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, November 27th 2020, 12:10:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, November 28th 2020, 12:21:32 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
