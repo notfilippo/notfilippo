@@ -1,6 +1,4 @@
-## qu4k
-
-> /kwæk/
+## Filippo Rossi
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20major%20release-aug.%202000-important" />
