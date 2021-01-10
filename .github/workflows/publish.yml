@@ -21,12 +21,12 @@ jobs:
         uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: qu4k
+          username: filipporeds
           template: "TEMPLATE.md"
 
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          coauthor_email: qu4k@users.noreply.github.com
-          coauthor_name: qu4k
+          coauthor_email: filipporeds@users.noreply.github.com
+          coauthor_name: filipporeds
