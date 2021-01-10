@@ -1,6 +1,4 @@
-## qu4k
-
-> /kwæk/
+## Filippo Rossi
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20major%20release-aug.%202000-important" />
@@ -22,7 +20,7 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 2151 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go |
-| 📦 | 650 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 649 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
@@ -41,4 +39,4 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, January 10th 2021, 12:21:27 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, January 10th 2021, 7:23:30 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
