@@ -30,13 +30,8 @@ PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys
 🍴 Forked filipporeds/yearn-meta from iearn-finance/yearn-meta
 💪 Opened PR #1 in matteotn/disclaimerbot
 🍴 Forked qu4k/disclaimerbot from matteotn/disclaimerbot
-🎉 Merged PR #13 in PlazaCommunity/resources
-🎉 Merged PR #11 in PlazaCommunity/resources
-❗️ Closed issue #10 in PlazaCommunity/resources
-🎉 Merged PR #14 in PlazaCommunity/resources
-🎉 Merged PR #15 in PlazaCommunity/resources
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, February 26th 2021, 12:22:47 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, February 26th 2021, 12:12:06 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
