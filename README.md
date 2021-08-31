@@ -10,18 +10,7 @@
 ### 📫 How to reach me:
 
 - Website: [filippo.red](https://filippo.red/)
+- Twitter: [@notfilippo](https://twitter.com/notfilippo)
 - Keybase: [@filipporossi](https://keybase.io/filipporossi)
-- Twitter: [@filipporeds](https://twitter.com/filipporeds)
 
 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys.asc)
-
-### 🗄 My projects:
-
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 2412 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go |
-| 📦 | 842 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
-
----
-
-<p align="center">Last refresh: <b>Saturday, July 31st 2021, 12:18:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
