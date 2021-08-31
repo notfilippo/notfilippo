@@ -10,8 +10,8 @@
 ### 📫 How to reach me:
 
 - Website: [filippo.red](https://filippo.red/)
+- Twitter: [@notfilippo](https://twitter.com/notfilippo)
 - Keybase: [@filipporossi](https://keybase.io/filipporossi)
-- Twitter: [@filipporeds](https://twitter.com/filipporeds)
 
 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/filipporossi/pgp_keys.asc)
 
