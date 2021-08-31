@@ -21,7 +21,7 @@ jobs:
         uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: filipporeds
+          username: notfilippo
           template: "TEMPLATE.md"
 
       - name: Commit & Push changes
