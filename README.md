@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me:
 
-- Website: [filippo.red](https://filippo.red/)
+- Website: [filippo.dev](https://filippo.dev/)
 - Twitter: [@notfilippo](https://twitter.com/notfilippo)
 - Keybase: [@filipporossi](https://keybase.io/filipporossi)
 
